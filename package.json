@@ -1,0 +1,24 @@
+{
+  "name": "nicolas-telegram-bot",
+  "version": "1.0.0",
+  "description": "Personal Telegram bot I use for automating tasks and notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaschan/nicolas-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaschan/nicolas-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/nicolaschan/nicolas-telegram-bot#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "node-telegram-bot-api": "^0.27.0"
+  }
+}
